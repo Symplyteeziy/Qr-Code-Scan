@@ -9,7 +9,7 @@ Thanks for checking out this front-end coding challenge.
 ### Links
 
 - Solution URL: (https://github.com/Symplyteeziy/Qr-Code-Scan)
-- Live Site URL: (qr-code-scan-ten.vercel.app/)
+- Live Site URL: (https://qr-code-scan-ten.vercel.app/)
 
 ## My process
  Started building with Html and i styled  it with CSS
